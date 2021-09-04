@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://i.pinimg.com/474x/7a/fa/17/7afa170957909a2c87b6ec17091984f9.jpg);
+}
+
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div {
+    font-size: 25px;
+    float: none;
+    background: whitesmoke;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+    border-radius: 140px;
+}
+
+.heading_div2 {
+    font-size: 20px;
+}
